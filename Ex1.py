@@ -1,4 +1,4 @@
-# Crie um programa q escreve olá mundo
+# Create a Python program that greets the world.
 
 
-print("Olá Mundo!!!")
+print("Hello World!!!")
